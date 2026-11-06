@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\bin\Debug\POS_Klinik.exe.config
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\bin\Debug\POS_Klinik.exe
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\bin\Debug\POS_Klinik.pdb
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\obj\Debug\POS_Klinik.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\obj\Debug\POS_Klinik.Form1.resources
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\obj\Debug\POS_Klinik.Properties.Resources.resources
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\obj\Debug\POS_Klinik.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\obj\Debug\POS_Klinik.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\obj\Debug\POS_Klinik.exe
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\obj\Debug\POS_Klinik.pdb
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\bin\Debug\QRCoder.dll
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\bin\Debug\QRCoder.xml
+C:\Users\HP\source\repos\POS_Klinik\POS_Klinik\obj\Debug\POS_Klinik.csproj.Up2Date
